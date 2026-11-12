@@ -2,7 +2,7 @@
 
 Got a PPTX that opens with a password but is **read-only** (no editing, no Save As, no PDF export)? This tool removes those locks and exports a PDF, so you can study from it.
 
-> ⚠️ **You must already know the password.** This tool does not crack, guess, or bypass anything. It only decrypts files you have legitimate access to. Use it only on files you're allowed to have a personal copy of.
+> ⚠️ **You must already know view only/read only the password.** This tool does not crack, guess, or bypass anything. It only decrypts files you have legitimate access to. Use it only on files you're allowed to have a personal copy of.
 
 ## What it does
 
