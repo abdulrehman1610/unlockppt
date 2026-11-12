@@ -1,0 +1,13 @@
+# never commit lecture files or outputs
+*.pptx
+*.pdf
+unlocked/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.spec
